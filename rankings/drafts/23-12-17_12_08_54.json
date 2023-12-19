@@ -1,0 +1,672 @@
+{
+    "Mustang": [
+        {
+            "player": "Nikola Jokic",
+            "rating": 17.929045,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Lauri Markkanen",
+            "rating": 5.7694488,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Mikal Bridges",
+            "rating": 9.850528,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Jrue Holiday",
+            "rating": 5.80263,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Jordan Poole",
+            "rating": 4.14987,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "O.G. Anunoby",
+            "rating": 4.154038,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Franz Wagner",
+            "rating": 7.297571,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Walker Kessler",
+            "rating": 3.0638134,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Chris Paul",
+            "rating": 4.14766,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Mark Williams",
+            "rating": 4.5939584,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Shaedon Sharpe",
+            "rating": 5.298352,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Sasha Vezenkov",
+            "rating": -1.806516,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "De'Anthony Melton",
+            "rating": 5.208422,
+            "currentTeam": "KK Dumbajumba"
+        }
+    ],
+    "Kallaste Kaja": [
+        {
+            "player": "Joel Embiid",
+            "rating": 18.430914,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Anthony Davis",
+            "rating": 16.741142,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Jimmy Butler",
+            "rating": 7.676718,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "De'Aaron Fox",
+            "rating": 5.956287,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Evan Mobley",
+            "rating": 8.606154,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Josh Giddey",
+            "rating": 3.368597,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Alperen Sengun",
+            "rating": 6.846701,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Tyler Herro",
+            "rating": -0.7637766,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Ja Morant",
+            "rating": 0.0,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Jerami Grant",
+            "rating": 4.4380283,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Markelle Fultz",
+            "rating": -4.001306,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Jaden Ivey",
+            "rating": 1.1605284,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Wendell Carter Jr.",
+            "rating": -5.2805953,
+            "currentTeam": "NA"
+        }
+    ],
+    "Ciumbuleuit": [
+        {
+            "player": "Luka Doncic",
+            "rating": 15.966616,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "Victor Wembanyama",
+            "rating": 12.343953,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "Kawhi Leonard",
+            "rating": 12.731578,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "Zach LaVine",
+            "rating": 4.002405,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "Jonas Valanciunas",
+            "rating": 10.2900505,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "Klay Thompson",
+            "rating": 3.935135,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "Ben Simmons",
+            "rating": -3.2473161,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Anfernee Simons",
+            "rating": -2.335361,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Keldon Johnson",
+            "rating": 6.1508727,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "RJ Barrett",
+            "rating": 1.5889294,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "Onyeka Okongwu",
+            "rating": 4.667706,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Dillon Brooks",
+            "rating": 2.635166,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Christian Wood",
+            "rating": -1.4820088,
+            "currentTeam": "NA"
+        }
+    ],
+    "Millsi Special": [
+        {
+            "player": "Damian Lillard",
+            "rating": 10.576171,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "James Harden",
+            "rating": 8.8634205,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "LeBron James",
+            "rating": 13.500723,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Dejounte Murray",
+            "rating": 9.301035,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Fred VanVleet",
+            "rating": 6.6271906,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Aaron Gordon",
+            "rating": 1.3495253,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Rudy Gobert",
+            "rating": 7.2958837,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Daniel Gafford",
+            "rating": 6.0123773,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Andrew Wiggins",
+            "rating": -3.5436,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Tobias Harris",
+            "rating": 8.093079,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Terry Rozier",
+            "rating": 4.888727,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Zach Collins",
+            "rating": 4.948961,
+            "currentTeam": "Millsi Special"
+        },
+        {
+            "player": "Bruce Brown",
+            "rating": 3.518687,
+            "currentTeam": "NA"
+        }
+    ],
+    "KK Vasar": [
+        {
+            "player": "Jayson Tatum",
+            "rating": 11.648694,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Donovan Mitchell",
+            "rating": 11.007173,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Karl-Anthony Towns",
+            "rating": 11.399595,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Darius Garland",
+            "rating": 6.523862,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Kristaps Porzingis",
+            "rating": 6.7325087,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Chet Holmgren",
+            "rating": 13.082321,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Tyrese Maxey",
+            "rating": 11.487132,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Brook Lopez",
+            "rating": 10.632177,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Marcus Smart",
+            "rating": -0.3015266,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Draymond Green",
+            "rating": 1.458973,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Spencer Dinwiddie",
+            "rating": 3.9665534,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Jalen Duren",
+            "rating": 1.8570528,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Josh Hart",
+            "rating": 2.942711,
+            "currentTeam": "NA"
+        }
+    ],
+    "KK Kadaka Karud": [
+        {
+            "player": "Tyrese Haliburton",
+            "rating": 14.881894,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Devin Booker",
+            "rating": 8.37172,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Bam Adebayo",
+            "rating": 5.672612,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Nikola Vucevic",
+            "rating": 8.833162,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Jaylen Brown",
+            "rating": 6.2893996,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Paolo Banchero",
+            "rating": 4.919567,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Kyle Kuzma",
+            "rating": 7.2356853,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Tyus Jones",
+            "rating": 5.021068,
+            "currentTeam": "KK Vasar"
+        },
+        {
+            "player": "Devin Vassell",
+            "rating": 3.543167,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "D'Angelo Russell",
+            "rating": 7.371067,
+            "currentTeam": "KK Kadaka Karud"
+        },
+        {
+            "player": "Clint Capela",
+            "rating": 6.3622108,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Kevin Huerter",
+            "rating": 2.5225487,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Jordan Clarkson",
+            "rating": 1.3307076,
+            "currentTeam": "NA"
+        }
+    ],
+    "Anders's Astounding Team": [
+        {
+            "player": "Shai Gilgeous-Alexander",
+            "rating": 19.195017,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Kevin Durant",
+            "rating": 13.757733,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Kyrie Irving",
+            "rating": 5.822862,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Desmond Bane",
+            "rating": 11.670481,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Jamal Murray",
+            "rating": 1.4298279,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Myles Turner",
+            "rating": 8.497946,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Nic Claxton",
+            "rating": 2.673953,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Bradley Beal",
+            "rating": -4.221144,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Khris Middleton",
+            "rating": 2.4764178,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "CJ McCollum",
+            "rating": 2.7463233,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Keegan Murray",
+            "rating": 2.5194206,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Derrick White",
+            "rating": 8.971492,
+            "currentTeam": "Anders's Astounding Team"
+        },
+        {
+            "player": "Mike Conley",
+            "rating": 6.038373,
+            "currentTeam": "Ciumbuleuit"
+        }
+    ],
+    "KK Dumbajumba": [
+        {
+            "player": "LaMelo Ball",
+            "rating": 5.761453,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Anthony Edwards",
+            "rating": 6.929633,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Jaren Jackson Jr.",
+            "rating": 9.117263,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Pascal Siakam",
+            "rating": 6.8006763,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Scottie Barnes",
+            "rating": 13.273704,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Brandon Ingram",
+            "rating": 6.340879,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Jalen Williams",
+            "rating": 4.7984786,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Jalen Green",
+            "rating": 1.9148239,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Jabari Smith Jr.",
+            "rating": 4.2315736,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Michael Porter Jr.",
+            "rating": 7.496522,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Russell Westbrook",
+            "rating": 2.7286098,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "P.J. Washington",
+            "rating": 2.4555962,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Jusuf Nurkic",
+            "rating": 7.36712,
+            "currentTeam": "Henrik's Imposing Team"
+        }
+    ],
+    "Hundisabad PP": [
+        {
+            "player": "Giannis Antetokounmpo",
+            "rating": 13.9866295,
+            "currentTeam": "Hundisabad PP"
+        },
+        {
+            "player": "Domantas Sabonis",
+            "rating": 8.986144,
+            "currentTeam": "Hundisabad PP"
+        },
+        {
+            "player": "Jalen Brunson",
+            "rating": 9.465601,
+            "currentTeam": "Hundisabad PP"
+        },
+        {
+            "player": "DeMar DeRozan",
+            "rating": 6.528434,
+            "currentTeam": "Hundisabad PP"
+        },
+        {
+            "player": "Austin Reaves",
+            "rating": 7.5312343,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Zion Williamson",
+            "rating": 4.1480937,
+            "currentTeam": "Hundisabad PP"
+        },
+        {
+            "player": "Tre Jones",
+            "rating": 0.86106634,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Jarrett Allen",
+            "rating": 4.5541053,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "John Collins",
+            "rating": 4.354634,
+            "currentTeam": "Ciumbuleuit"
+        },
+        {
+            "player": "T.J. McConnell",
+            "rating": -0.4233299,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Kevon Looney",
+            "rating": 2.507165,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Bojan Bogdanovic",
+            "rating": -3.184764,
+            "currentTeam": "Hundisabad PP"
+        },
+        {
+            "player": "Collin Sexton",
+            "rating": 4.179092,
+            "currentTeam": "KK Vasar"
+        }
+    ],
+    "Henrik's Imposing Team": [
+        {
+            "player": "Stephen Curry",
+            "rating": 12.92988,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Trae Young",
+            "rating": 11.812876,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Paul George",
+            "rating": 11.644417,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Cade Cunningham",
+            "rating": 8.02017,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Julius Randle",
+            "rating": 6.3953605,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Deandre Ayton",
+            "rating": 5.681168,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Cameron Johnson",
+            "rating": 1.9443089,
+            "currentTeam": "Hundisabad PP"
+        },
+        {
+            "player": "Buddy Hield",
+            "rating": 4.7204022,
+            "currentTeam": "Mustang"
+        },
+        {
+            "player": "Scoot Henderson",
+            "rating": -3.6270707,
+            "currentTeam": "Kallaste Kaja"
+        },
+        {
+            "player": "Jakob Poeltl",
+            "rating": 6.5634933,
+            "currentTeam": "Henrik's Imposing Team"
+        },
+        {
+            "player": "Immanuel Quickley",
+            "rating": 3.2499647,
+            "currentTeam": "NA"
+        },
+        {
+            "player": "Bobby Portis",
+            "rating": 3.361994,
+            "currentTeam": "KK Dumbajumba"
+        },
+        {
+            "player": "Bennedict Mathurin",
+            "rating": 1.8308076,
+            "currentTeam": "NA"
+        }
+    ]
+}
